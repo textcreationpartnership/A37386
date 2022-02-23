@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the most illustrious Lord, the Count of Hohenlo one of the imperial generals. Written by a gentleman in the army of Count Serini before Canisia. Concerning the renegades amongst the Turks.  Put into English by a person of quality. With allowance, June 10. 1664. Roger Le Strange.</title>
+            <author>N.R.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37386</idno>
+            <idno type="STC">Wing D73</idno>
+            <idno type="STC">ESTC R216708</idno>
+            <idno type="EEBO-CITATION">99828430</idno>
+            <idno type="PROQUEST">99828430</idno>
+            <idno type="VID">32857</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32857)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1963:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the most illustrious Lord, the Count of Hohenlo one of the imperial generals. Written by a gentleman in the army of Count Serini before Canisia. Concerning the renegades amongst the Turks.  Put into English by a person of quality. With allowance, June 10. 1664. Roger Le Strange.</title>
+                  <author>N.R.D.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Redmayne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: N.R.D.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Austro-Turkish War, 1661-1664 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32857:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>A LETTER To the Moſt Illuſtrious Lord, The Count of Hohenlo, One of the Imperial Generals.</p>
+            <p>Written by a Gentleman in the Army of Count <hi>Serini</hi> before <hi>Caniſia.</hi>
+            </p>
+            <p>Concerning the RENEGADES amongſt the TURKS.</p>
+            <p>Put into Engliſh by a Perſon of Quality.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance,</p>
+                        <closer>
+                           <dateline>
+                              <date>June 10. 1664.</date>
+                           </dateline>
+                           <signed>ROGER LE STRANGE.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Redmayne,</hi> 1664.</p>
+            <pb facs="tcp:32857:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <pb facs="tcp:32857:2"/>
+            <!-- PDF PAGE 50 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:32857:3"/>
+            <!-- PDF PAGE 51 -->
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:32857:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>SInce your generous Humor leads you to oblige without either hope of deſire of a return, finding my ſelf in the number of thoſe whoſe obligati<g ref="char:EOLhyphen"/>ons can never be cancelled. I have endeavoured, by this paper <hi>Mercury</hi> to teſtifie to your Lordſhip how willingly I would catch at any opportunity to ſhew my ſelf grateful, though I cannot quit ſcores. I remem<g ref="char:EOLhyphen"/>ber when I had laſt the honour of your converſe, you were lamenting the fate of Chriſtendome, that nothing ſhould be ſo deſtructive of her intereſt, as a ſort of people that falling into the hands of Infidels, either through cowardize, or ambition quit the reverence they owe to the bleſſed <hi>Ieſus,</hi> and renounce a Religion as glorious in its Author, as eternal in its Verity, and ſurely the complaint was ſo juſt, that I dare ſay upon the ſtricteſt enquiry into the many Enemies that con<g ref="char:EOLhyphen"/>tinually watch for the ruine of <hi>Europe,</hi> we ſhall finde no ſuch Arguſes as the Renegades, who having once become banquerout in Religion<g ref="char:punc">▪</g> account it glorious to ſhew their paſſion for their new embraced in pieties, and in their hatred to their once fellow Chriſtians, out<g ref="char:EOLhyphen"/>vie ever natural <hi>Turks.</hi> The truth of this I have ſuffi<g ref="char:EOLhyphen"/>ciently experimented ſince my coming before <hi>Caniſia,</hi> in which place a conſiderable number of theſe mon<g ref="char:EOLhyphen"/>ſters are amongſt ſome of the priſoners we have taken, I have met with here and there one of good judgement in affairs, who have aſſured me that the moſt conſi<g ref="char:EOLhyphen"/>derable perſons, and ſuch as are able to give Chriſti<g ref="char:EOLhyphen"/>anity the moſt deadly blow are the Renegades now in pay with the <hi>Turk; Italians, French, Germans,
+<pb n="2" facs="tcp:32857:4"/>
+                  <!-- PDF PAGE 52 -->Spaniards, Engliſh, &amp;c.</hi> who being well skill'd in the military part of the Mathematicks (of which, and all other Species of good Learning the Turks are wholly ignorant) have ever the charge of the Artillery, are the Daemons that ſhew them the Modern way of attaquing places, and the neweſt mode of regulating Armies a<g ref="char:EOLhyphen"/>mongſt us, and indeed teach them all the Warlike In<g ref="char:EOLhyphen"/>ventions which the moſt refined Wits have ſtudied and happily brought to perfection: Nay one of them in pur<g ref="char:EOLhyphen"/>ſuance of a large diſcourſe he made me of the damage and injuries theſe Vipers do to Chriſtendome, did not ſtick to affirm, that a Renegade in high eſteem with this Prime Viſier, was the grand Springe that put the Turks in motion now againſt the Emperour; and (beſides the allegation of the differences Chriſtian Princes fo<g ref="char:EOLhyphen"/>ment amongſt themſelves) by other arguments more pleaſing to the Turkiſh Guſto, pleaded the Neceſſity in point of Honour, and Facility in point of Succeſs, if the War were once commenced. Neither is it, my Lord incredible, that the Turk with ſo great a power ſhould like a flood come in upon us at the perſwaſions of theſe kinde of men; for upon the ſame account he formerly undertook ſuch expeditions. Sultan <hi>Soliman</hi> would rather have contented himſelf with the delights of his Seraglio, then ever attempted to beſiege <hi>Malta</hi> with ſuch a numerous Army, had not the charms of the Re<g ref="char:EOLhyphen"/>negade <hi>Piali</hi> puſht him upon that deſigne. Yea <hi>Maho<g ref="char:EOLhyphen"/>met</hi> the ſecond would not have beſieged <hi>Rhodes</hi> (where it pleaſed God to ſignalize the bravery of the Chriſti<g ref="char:EOLhyphen"/>ans in raiſing that ſiege) had not the Renegades per<g ref="char:EOLhyphen"/>ſwaded him, and in particular one <hi>Anthony Meligabi</hi>
+               <pb n="3" facs="tcp:32857:4"/>
+               <!-- PDF PAGE 52 -->a Native of that very Iſle, the perfile whereof he gave to the Sultan: And I muſt needs ſay, they have ren<g ref="char:EOLhyphen"/>dred the <hi>Ottoman</hi> Family and Empire ſo many merito<g ref="char:EOLhyphen"/>rious ſervices, that a great part of their Grandeur muſt be acknowledged the effect of their Counſel and Cou<g ref="char:EOLhyphen"/>rage. I ſhall take liberty to look back into former times and give your moſt Excellent Lordſhip a ſummary ac<g ref="char:EOLhyphen"/>count of their Enterprizes. I will beginne with <hi>Ibra<g ref="char:EOLhyphen"/>im Baſſa,</hi> ſo fatal to our <hi>Hungary.</hi> This grand Perſo<g ref="char:EOLhyphen"/>nage heing a Child of Tribute;) for the <hi>Turk</hi> all over his Dominions, takes one in three from the Chriſtians) was a Native of <hi>Parga,</hi> a Village of <hi>Greece,</hi> betweene the City of St. <hi>Maur</hi> and <hi>Corfeu;</hi> and being a youth of a comly preſence and noble ſpirit, was ſent to the Service of <hi>Solyman</hi> the Second in the life of his Father <hi>Selim;</hi> this young Prince being then at <hi>Adrinopolis:</hi> the <hi>Turkiſh</hi> Emperours having a Cuſtome to bring up their Children out of the <hi>Seraglio,</hi> and <hi>Briantine</hi> Port whether they are never brought, untill the deceaſe of their Father. <hi>Ibraim</hi> grew not ſo faſt in years, as he towred up in the favour of <hi>Solyman;</hi> and ſeemed to be the Soul, that gave life and motion to this Prince, who no ſooner mounted the Emperial Throne, but he heap<g ref="char:EOLhyphen"/>ed ſo many honours and favours upon this Creature of his, that the world might eaſily judge, he intended him for that <hi>Coloſse,</hi> on whoſe ſhoulders he reſolved to lay the burden of that vaſt State: Now he is Grand Vizier, and Lievtenant General of the Empire; who being a great Souldier, and incomparable Stateſman, put his Maſter upon thoſe heroick actions that made our <hi>Hungary</hi> and the Iſle of <hi>Rhodes,</hi> the juſt ſubjects of
+<pb n="4" facs="tcp:32857:5"/>
+               <!-- PDF PAGE 53 -->his Magnificent triumphs. To whoſe courage doe the <hi>Turks</hi> owe the Cities and Kingdomes of <hi>Tunis</hi> and <hi>Al<g ref="char:EOLhyphen"/>gier,</hi> but to <hi>Ariadeno Barbaroſſa</hi> a Greek Renegade and Native of <hi>Metelin?</hi> and who ſo bravely defend<g ref="char:EOLhyphen"/>ed the City of <hi>Algier</hi> in the year 1541. when the glori<g ref="char:EOLhyphen"/>ous Emperour <hi>Charles</hi> V. beſieged it, but <hi>Aſſan Aga</hi> a Native or <hi>Sardignia?</hi> It was cloſe begirt by Sea and Land with a potent Army, and yet he had the fortune to repel all the Impreſſions made by ſo many excellent Cavaliers, and ſee them ſent to their laſt home. I might here mention that famous Captain <hi>Scipio Cigale,</hi> ſon of the Viſcount <hi>Cigale,</hi> who paſſing out of <hi>Sicily</hi> into <hi>Spain,</hi> was taken priſoner, and carried to <hi>Conſtantino<g ref="char:EOLhyphen"/>ple;</hi> where renouncing his Religion, he grew into ſo great eſteem with the Sultan, that he raiſed him to the Dignity of a Baſſa, and made him General of divers great Armies, with which he enlarged the <hi>Ottoman</hi> Territories, and his own Reputation. But I ſhall con<g ref="char:EOLhyphen"/>tent my ſelf with the Actions and Fortunes of that great Renegade <hi>Naſuff,</hi> ſo famous in this Century, and nigher your Lordſhips memory; this <hi>Naſuff</hi> was the ſon of a Greek Prieſt about <hi>Salonica,</hi> who being brought young to <hi>Conſtantinople,</hi> ſo well managed his Fortune that at 25 years of Age he was employed in the over<g ref="char:EOLhyphen"/>ſeeing a Moſque, which the Sultaneſs cauſed to be built, and having fortunately performed that office, by her had the charge of the Seraglio given him, and all her domeſtick affairs: But here he ſtopt not, for be<g ref="char:EOLhyphen"/>ing the childe of Fortune, and deſtined to the higheſt Honours and Employs, ſhe quickly brought him to the knowledge of Sultan <hi>Hohmet</hi> the firſt, who from Offices
+<pb n="5" facs="tcp:32857:5"/>
+               <!-- PDF PAGE 53 -->in his Seraglio, advanced him to be Baſſa of <hi>Aleppo,</hi> and dignified him with the Government of <hi>Meſopotamia;</hi> yea the Emperour finding him to be one of a deſigning ſpirit, &amp; ambitious to undertake great things, after the death of <hi>Serdar</hi> Baſſa, gave him his Eſtate, and made him grand Vizier; and that he might have opportunity to ſhew his addreſs and courage in Military expediti<g ref="char:EOLhyphen"/>ons, made him General of his Army againſt the Perſi<g ref="char:EOLhyphen"/>ans, who were ſo beaten by him, that they were enfor<g ref="char:EOLhyphen"/>ced to ſue for a Peace as diſhonourable to themſelves, as advantagious to the Turks. Thus encircled with the beams of glory and honour, he enters <hi>Conſtantinople,</hi> re<g ref="char:EOLhyphen"/>ceiving the plaudit of the Grandees of the Port; and as a further acceſſion to his felicities, one of the Sultans daughters in marriage; but in fine, this Ingrate hoping to make himſelf Soveraign of <hi>Meſopotamia,</hi> in reward of his perfidiouſneſs had all his greatneſs choaked with a Bow-ſtring. Thus my Lord, I have given you ſome ſmall remarques of the ſervices formerly perform'd by theſe Renegades to the <hi>Ottoman</hi> Empire, and can we think they are leſs active now? No, no, the ſame max<g ref="char:EOLhyphen"/>imes that lead them in the laſt Age to the proſecution of the moſt infamous deſigns, ſurvive in the breaſts of theſe, who conſcious to themſelves of the higheſt crimes, think there is no ſafety but in continuing to be ſtill worſe. We had been maſters of <hi>Caniſia</hi> before now, had theſe ſerpents left their hiſſing, and continual ſollicitings to endure the utmoſt extremity rather then yeild; yea the moſt Intelligent perſons I can any where encounter aſſure me, the laſt year the Turks had not been ſo cruel where they came, had not theſe devils (like ſo many
+<pb n="6" facs="tcp:32857:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 54 -->Mufties) perſwaded the natural Turks (and for that no great ſtore of Rhetorick was requiſite) that Chriſtians were the beſt Victimes they could offer up to their Prophet <hi>Mahomet.</hi> The truth is, that Impoſtor having taught in his Alchoran that his Law was to be planted with Sword in hand, there are no ſuch people in the world to put that doctrine in practiſe as theſe Rene<g ref="char:EOLhyphen"/>gades, who having quitted a Religion innocent and pure, and ſuch as bids the Sword to be ſheathed; are the readieſt to commit all kind of cruelties and mur<g ref="char:EOLhyphen"/>ders, having a religious pretence to juſtifie them: So that (my Lord) it will concern all Chriſtian Princes to watch narrowly theſe <hi>Phaetons,</hi> that have already fired ſo great a part of Chriſtendom, and will undoubtedly endeavour to proceed further, if by ſevere animadver<g ref="char:EOLhyphen"/>ſions they be not frighted from joyning with thoſe pro<g ref="char:EOLhyphen"/>feſt enemies of Chriſtianity; for it is certain, many of theſe Renegades now in Command, are ſuch as volun<g ref="char:EOLhyphen"/>tarily and at years of diſcretion eſpouſed that Intereſt. To conclude, That God Almighty would favourably ſhine on the Empire, and give all Chriſtian Monarchs a reſolution to combine againſt the common Enemy, and amongſt the many brave perſons that fight under the Banner of the Croſs, preſerve your Excellency, ſhall be the prayer of</p>
+            <closer>
+               <dateline>From <hi>Caniſia,</hi> 
+                  <date>
+                     <hi>May,</hi> 15th <hi>Stil. Nov.</hi> 1664.</date>
+               </dateline>
+               <salute>Moſt Illuſtrious Lord,</salute> 
+               <signed>Your moſt humble and faithful Servant, N. R. D.</signed>
+            </closer>
+            <pb facs="tcp:32857:6"/>
+            <!-- PDF PAGE 54 -->
+         </div>
+      </body>
+   </text>
+</TEI>
